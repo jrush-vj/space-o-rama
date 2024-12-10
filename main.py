@@ -1,10 +1,11 @@
+##PLEASE CHANGE THE WORKING DIRECTORY AS PER FOLDER LOCATION##
 import pygame
 import time
 import os
 import subprocess  # To execute another Python script
 
 # Change working directory
-os.chdir(r"C:\Jerush\Coding_Programming\Side-Projects\pyjam")
+os.chdir(r"INPUT_WORKING__DIR")
 
 # Initialize Pygame
 pygame.init()
