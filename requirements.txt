@@ -1,0 +1,3 @@
+#PYTHON 3.13 was not working with pygame for some reason. But you can use exe to run the game :)
+pip install moviepy
+pip install pygame
